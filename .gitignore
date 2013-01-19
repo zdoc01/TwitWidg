@@ -1,0 +1,4 @@
+# IDE and build untracked files
+.classpath
+.project
+bin/
